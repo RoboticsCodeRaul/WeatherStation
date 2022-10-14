@@ -5,3 +5,33 @@
 </a>
 
 ## [Instructables](https://www.instructables.com/Solar-Powered-WiFi-Weather-Station-V30/)
+
+Things to do:
+
+Install ESP32 Board support to your Arduino IDE
+https://learn.sparkfun.com/tutorials/esp32-thing-hookup-guide#installing-via-arduino-ide-boards-manager
+
+Install the following libraries:
+
+ESP32 - https://github.com/espressif/arduino-esp32
+Blynk - https://github.com/blynkkk/blynk-library/releases
+BME280 - https://github.com/finitespace/BME280
+Adafruit_SI1145_Library -https://github.com/adafruit/Adafruit_SI1145_Library
+BH1750 - https://github.com/claws/BH1750
+One Wire - https://github.com/PaulStoffregen/OneWire
+Dallas Temperature - https://github.com/milesburton/Arduino-Temperature-Control-Library
+
+Uploading Sensor Data to ThingSpeak
+https://thingspeak.com/
+
+Interfacing With Blynk App
+https://play.google.com/store/apps/details?id=cloud.blynk&hl=pt_PT&gl=US
+
+Connect the Solar Panel
+
+
+
+
+
+
+
