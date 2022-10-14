@@ -4,7 +4,4 @@
    <img width=900 src="https://lh5.googleusercontent.com/Ew3lGGiQugsRrCm-gClgQ5dM33WuIOFtiq9UVam75dSAL4PZpY2YK_p7t9EgfgcqjQY=w1200-h630-p" /> 
 </a>
 
-
-
-  ## [Instructables](https://www.instructables.com/Interactive-LED-Periodic-Table/)
-
+## [Instructables](https://www.instructables.com/Solar-Powered-WiFi-Weather-Station-V30/)
