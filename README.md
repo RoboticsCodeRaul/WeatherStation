@@ -1,6 +1,6 @@
 # Solar Powered WiFi Weather Station V3.0
  
-[![Watch the video](https://cld.pt/dl/download/be67b3a4-02e0-4e21-b3df-69e2cfcd7a33/Periodic_Table.PNG)](https://www.youtube.com/watch?v=GxlG2v3BF20&ab_channel=OpenGreenEnergy)
+[![Watch the video](https://drive.google.com/file/d/1hzjML0o8yY5CyYE_cZU43SvIB1IPpblp/view?usp=sharing)](https://www.youtube.com/watch?v=GxlG2v3BF20&ab_channel=OpenGreenEnergy)
 
   ## [Instructables](https://www.instructables.com/Interactive-LED-Periodic-Table/)
 
