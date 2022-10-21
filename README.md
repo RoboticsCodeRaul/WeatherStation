@@ -13,13 +13,13 @@ https://learn.sparkfun.com/tutorials/esp32-thing-hookup-guide#installing-via-ard
 
 Install the following libraries:
 
-ESP32 - https://github.com/espressif/arduino-esp32
-Blynk - https://github.com/blynkkk/blynk-library/releases
-BME280 - https://github.com/finitespace/BME280
-Adafruit_SI1145_Library -https://github.com/adafruit/Adafruit_SI1145_Library
-BH1750 - https://github.com/claws/BH1750
-One Wire - https://github.com/PaulStoffregen/OneWire
-Dallas Temperature - https://github.com/milesburton/Arduino-Temperature-Control-Library
+ESP32 - https://github.com/espressif/arduino-esp32<br>
+Blynk - https://github.com/blynkkk/blynk-library/releases<br>
+BME280 - https://github.com/finitespace/BME280<br>
+Adafruit_SI1145_Library -https://github.com/adafruit/Adafruit_SI1145_Library<br>
+BH1750 - https://github.com/claws/BH1750<br>
+One Wire - https://github.com/PaulStoffregen/OneWire<br>
+Dallas Temperature - https://github.com/milesburton/Arduino-Temperature-Control-Library<br>
 
 Uploading Sensor Data to ThingSpeak
 https://thingspeak.com/
