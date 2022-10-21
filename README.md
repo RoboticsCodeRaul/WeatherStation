@@ -29,7 +29,8 @@ https://play.google.com/store/apps/details?id=cloud.blynk&hl=pt_PT&gl=US
 
 Connect the Solar Panel
 
-
+Wifi
+https://github.com/espressif/arduino-esp32/blob/master/libraries/WiFi/examples/WiFiClientEnterprise/WiFiClientEnterprise.ino
 
 
 
